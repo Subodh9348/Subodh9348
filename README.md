@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on #Frontend Development.<br>🌱 I’m currently learning #C Language.<br>🤔 I’m looking for Java Developer Role.<br>💬 Ask me about programming languages.<br>📫 How to reach me : subodhnandi1999@gmail.com<br>⚡ Code eat sleep repeat
+💫 About Me:<br>🔭 I’m currently working on #Frontend Development.<br>🌱 I’m currently learning core java Language.<br>🤔 I’m looking for Java Developer Role.<br>💬 Ask me about programming languages.<br>📫 How to reach me : subodhnandi1999@gmail.com<br>⚡ Code eat sleep repeat
 
 
 ## 🌐 Socials:
